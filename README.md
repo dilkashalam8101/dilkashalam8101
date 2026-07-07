@@ -52,8 +52,7 @@ A weather app using API integration to display real-time data.
 
 ## 📊 GitHub Stats
 
-![Dilkash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilkashalam810&show_icons=true&theme=transparent)
-
+![Dilkash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilkashalam8101&show_icons=true&theme=transparent)
 ---
 
 ## 🤝 Connect With Me
