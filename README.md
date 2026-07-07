@@ -59,7 +59,7 @@ A weather app using API integration to display real-time data.
 ## 🤝 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/dilkash-alam-9a657940a/
-- Twitter: 
+- Twitter: @DA7982ALAM
 - Portfolio: 
 
 ---
