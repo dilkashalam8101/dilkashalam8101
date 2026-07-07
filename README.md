@@ -59,8 +59,10 @@ A weather app using API integration to display real-time data.
 ## 🤝 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/dilkash-alam-9a657940a/
+- Instagram: https://www.instagram.com/dilkash_alam-coder/
 - Twitter: @DA7982ALAM
-- Portfolio: 
+- YouTube: www.youtube.com/@dilkash_alam_coder
+- Portfolio: https://dilkashalam8101.github.io/My-Portfolio/
 
 ---
 
